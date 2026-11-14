@@ -3,7 +3,7 @@
   "name": "browser-game-game-core-filament",
   "display_name": "Browser Game Game Core Filament",
   "description": "Filament 5 administration for game worlds, clocks, rulesets, content versions, feature flags, and maintenance state.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\BrowserGame\\GameCoreFilament\\GameCoreFilamentServiceProvider",
   "requires": {
